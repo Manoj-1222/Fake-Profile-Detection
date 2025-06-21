@@ -74,7 +74,6 @@ db.sqlite3
 
 ## Reference
 
-- **Base Paper:** See `Base paper` file for the original research paper and methodology.
 
 ---
 
