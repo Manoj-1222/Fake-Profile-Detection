@@ -1,0 +1,6 @@
+django==3.0.5
+pandas
+numpy
+tensorflow==1.14.0
+keras
+scikit-learn
